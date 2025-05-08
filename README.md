@@ -12,3 +12,5 @@ as well as the following constraints:
     - cannot do the same routine more than 2 days in a row.
 
 Goal: Maximise the total score.
+
+Refer to the word document for the project structure analysis
